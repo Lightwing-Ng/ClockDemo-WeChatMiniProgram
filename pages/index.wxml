@@ -1,0 +1,3 @@
+<!--pages/index.wxml-->
+
+<canvas canvas-id="myCanvas" class="canvas"></canvas>
