@@ -70,4 +70,4 @@ cond(yes)->e
 cond(no)->op
 ```
 ## 运行
-![运行效果](https://raw.githubusercontent.com/Lightwing-Ng/ClockDemo-WeChatMiniProgram/master/images/WechatIMG2.png)
+![预览](images/WechatIMG2.png)
